@@ -1,0 +1,4 @@
+crochet-shop
+.env
+.env.*
+!.env.example
